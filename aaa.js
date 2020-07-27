@@ -1,2 +1,0 @@
-lanxin.cn
-com.lanxin
