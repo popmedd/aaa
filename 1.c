@@ -1,3 +1,3 @@
-https://test.qianxin.com
-https://test.ali-inc.cn
-https://test.face-inc.cn
+https://test.qianxin-inc.cn
+https://test.alibaba-inc.cn
+https://test.facebook-inc.cn
